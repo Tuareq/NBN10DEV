@@ -50,7 +50,7 @@ class AegyptiScreen extends StatelessWidget {
                 child: RichText(
                   textAlign: TextAlign.justify, // Alinha o texto justificado
                   text: const TextSpan(
-                    style: TextStyle(fontSize: 9.0, color: Colors.black),
+                    style: TextStyle(fontSize: 9.5, color: Colors.black),
                     children: [
                       TextSpan(
                         text:
