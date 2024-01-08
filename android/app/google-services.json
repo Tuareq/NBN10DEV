@@ -1,0 +1,39 @@
+{
+"project_info": {
+"project_number": "263508834938",
+"project_id": "endemias-a9384",
+"storage_bucket": "endemias-a9384.appspot.com"
+},
+"client": [
+{
+"client_info": {
+"mobilesdk_app_id": "1:263508834938:android:8219491751d9c7bb9799c3",
+"android_client_info": {
+"package_name": "com.nbn10de.endemics.endemics"
+}
+},
+"oauth_client": [
+{
+"client_id": "263508834938-h82l801ap8mgc2alff9icgsjbe67e4j1.apps.googleusercontent.com",
+"client_type": 3
+}
+],
+"api_key": [
+{
+"current_key": "AIzaSyBB3q83TNlCTZc64sbiPTgJkFZYhpLbVBY"
+}
+],
+"services": {
+"appinvite_service": {
+"other_platform_oauth_client": [
+{
+"client_id": "263508834938-h82l801ap8mgc2alff9icgsjbe67e4j1.apps.googleusercontent.com",
+"client_type": 3
+}
+]
+}
+}
+}
+],
+"configuration_version": "1"
+}

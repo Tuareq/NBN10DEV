@@ -1,0 +1,136 @@
+name: endemics
+description: A new Flutter project.
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.1 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  firebase_auth: ^4.6.3
+  firebase_core: ^2.14.0
+  cloud_firestore: ^4.12.1
+  cupertino_icons: ^1.0.2
+  google_maps_flutter: ^2.5.0
+  location: ^5.0.3
+  geolocator: ^10.0.1
+  flutter_polyline_points: ^2.0.0
+  path_provider: ^2.1.1
+  permission_handler: ^11.0.0
+  path: ^1.8.3
+  shared_preferences: ^2.2.1
+  mask_text_input_formatter: ^2.5.0
+  url_launcher: ^6.2.1
+
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^2.0.0
+
+flutter:
+
+  uses-material-design: true
+
+  assets:
+    - asset/AedesAegypti80.png
+    - asset/ccz.png
+    - asset/cczgr.png
+    - asset/fundo.png
+    - asset/pmflogo.png
+    - asset/pmf1.png
+    - asset/pmf2.png
+    - asset/logoequipes/mosquito160.png
+    - asset/logoequipes/sul160.png
+    - asset/logoequipes/melhor160.png
+    - asset/logoequipes/norte160.png
+    - asset/logoequipes/coloninha160.png
+    - asset/logosupervisor/leandro160.png
+    - asset/logosupervisor/maria160.png
+    - asset/logosupervisor/janete160.png
+    - asset/star.png
+    - asset/fotos/nbn160.png
+    - asset/fotos/diogo160.png
+    - asset/virus/virusDengue45.png
+    - asset/virus/virusDengue115.png
+    - asset/virus/toxoplasmose45.png
+    - asset/virus/toxoplasmose160.png
+    - asset/virus/virusHepatiteB45.png
+    - asset/virus/virusHepatiteB160.png
+    - asset/virus/virusZika45.png
+    - asset/virus/virusZika160.png
+    - asset/virus/virusChicungunha45.png
+    - asset/virus/virusChicungunha160.png
+    - asset/virus/virusFebreamarela45.png
+    - asset/virus/virusFebreamarela160.png
+    - asset/virus/virusLeish45.png
+    - asset/virus/virusLeish160.png
+    - asset/virus/virusRaiva45.png
+    - asset/virus/virusRaiva80.png
+    - asset/virus/tenia45.png
+    - asset/virus/tenia160.png
+    - asset/virus/psitacose45.png
+    - asset/virus/psitacose160.png
+    - asset/virus/histoplasmose45.png
+    - asset/virus/histoplasmose160.png
+    - asset/virus/hidatiose45.png
+    - asset/virus/hidatiose160.png
+    - asset/virus/dipilidiose45.png
+    - asset/virus/dipilidiose160.png
+    - asset/virus/cisticercose45.png
+    - asset/virus/cisticercose160.png
+    - asset/virus/bacTuberculose45.png
+    - asset/virus/bacTuberculose160.png
+    - asset/virus/bacTifo45.png
+    - asset/virus/bacTifo160.png
+    - asset/virus/bacSalmonela45.png
+    - asset/virus/bacSalmonela160.png
+    - asset/virus/bacLeptospirose45.png
+    - asset/virus/bacLeptospirose160.png
+    - asset/virus/bacBubonica45.png
+    - asset/virus/bacBubonica160.png
+    - asset/virus/bacEripsela45.png
+    - asset/virus/bacEripsela160.png
+    - asset/virus/acaroSarna45.png
+    - asset/virus/acaroSarna160.png
+    - asset/virus/bacBrucelose45.png
+    - asset/virus/bacBrucelose80.png
+    - asset/virus/criptococose45.png
+    - asset/virus/criptococose160.png
+    - asset/virus/tripanossomacruzi45.png
+    - asset/virus/esquistossomose45.png
+    - asset/virus/esquistossomose160.png
+    - asset/mosquito/AedesAegypti45.png
+    - asset/mosquito/AedesAlbopictus45.png
+    - asset/mosquito/AedesAegypti80.png
+    - asset/mosquito/culexquinquefasciatus45.png
+    - asset/mosquito/anophelesAlbimanus45.png
+    - asset/mosquito/haemagogus45.png
+    - asset/mosquito/flebotomopallha45.png
+    - asset/mosquito/anophelesAtroparvus45.png
+    - asset/mosquito/anophelesAtroparvus160.png
+    - asset/mosquito/anophelesQuadrimaculatus45.png
+    - asset/mosquito/anophelesQuadrimaculatus160.png
+    - asset/mosquito/culexBrumpt45.png
+    - asset/mosquito/culexBrumpt160.png
+    - asset/mosquito/culexModestus45.png
+    - asset/mosquito/culexModestus160.png
+    - asset/mosquito/culexPipens45.png
+    - asset/mosquito/culexPipens160.png
+    - asset/mosquito/culexTritaeniorhynchus45.png
+    - asset/mosquito/culexTritaeniorhynchus160.png
+    - asset/mosquito/AedesAegypti80.png
+    - asset/mosquito/AedesAegypti200.png
+    - asset/mosquito/AedesAlbopictus140.png
+    - asset/mosquito/culexquinquefasciatus140.png
+    - asset/mosquito/anophelesAlbimanus140.png
+    - asset/mosquito/haemagogus140.png
+    - asset/mosquito/flebotomopallha160.png
+    - asset/formularios/BoRecGeo.png
+    - asset/formularios/PCFADResuReco.png
+    - asset/formularios/PNCDAntivet.png
+    - asset/formularios/PNCDVEtemo.png
